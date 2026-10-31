@@ -1,3 +1,5 @@
 sim
 *.vcd
 
+sim8
+waves8.vcd
